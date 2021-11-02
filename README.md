@@ -2,7 +2,7 @@
 ### Atualmente estou:
 <ul>
   <li>🔭 procurando minha primeira oportunidade no mercado;</li>
-  <li>🌱 estudando <strong>Flutter</strong> e <strong>React</strong>;</li> 
+  <li>🌱 estudando <strong>Flutter.</strong>
   <li>✍🏽 <strong>desenvolvendo</strong> aplicação web com: <strong>HTML, Javascript, Bootstrap, Node/Express, MongoDB/Mongoose e Python/BeautifulSoup.</strong></li> 
   <li>🥅 Objetos para 2021: Ingressar no mercado e finalizar minha primeira aplicação web completa.</li> 
 </ul>
