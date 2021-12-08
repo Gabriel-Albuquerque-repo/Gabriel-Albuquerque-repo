@@ -1,7 +1,7 @@
 ## Prazer, meu nome é Gabriel 👋
 ### Atualmente estou:
 <ul>
-  <li>🔭 procurando minha primeira oportunidade no mercado;</li>
+  <li>🔭 procurando minha primeira oportunidade no mercado/fazendo parte da Tech pro Bem (Pro Bono)</li>
   <li>🌱 estudando <strong>AWS Lambda, Serveless Framework e Typescript.</strong>
   <li>✍🏽 <strong>desenvolvendo</strong> back-end para o site da ONG Saúde da Rua sob o comando da Tech pro Bem.</li> 
   <li>✍🏽 <strong>desenvolvendo</strong> aplicação web com: <strong>HTML, Javascript, Bootstrap, Node/Express, MongoDB/Mongoose e Python/BeautifulSoup.</strong></li> 
