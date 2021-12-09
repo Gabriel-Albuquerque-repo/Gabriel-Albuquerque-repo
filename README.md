@@ -3,7 +3,7 @@
 <ul>
   <li>🔭 procurando minha primeira oportunidade no mercado/fazendo parte da Tech pro Bem (Pro Bono)</li>
   <li>🌱 estudando <strong>AWS Lambda, Serveless Framework e Typescript utilizando SOLID.</strong>
-  <li>✍🏽 <strong>desenvolvendo</strong> back-end para o site da ONG Saúde da Rua sob o comando da Tech pro Bem.</li> 
+  <li>✍🏽 <strong>desenvolvendo</strong> (primeira versão) do back-end para o site da ONG Saúde da Rua sob o comando da Tech pro Bem com: <strong>Typescript, Node/Express e MongoDB/Mongoose</strong>.</li> 
   <li>✍🏽 <strong>desenvolvendo</strong> aplicação web com: <strong>HTML, Javascript, Bootstrap, Node/Express, MongoDB/Mongoose e Python/BeautifulSoup.</strong></li> 
   <li>🥅 Objetos para 2022: Finalizar a entrega para a ONG Saúde da Rua, ingressar no mercado e iniciar o curso de Sistemas de Informação.</li> 
 </ul>
