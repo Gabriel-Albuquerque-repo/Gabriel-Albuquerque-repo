@@ -44,7 +44,7 @@
 
 <details>
   <summary>:zap: Estatísticas no Github</summary>
-  <img align="center" alt="Gabriel de Albuquerque's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=gabriel-albuquerque-repo&show_icons=true&include_all_commits=true&hide=contribs,issues&border_color=2e4058" />
+  <img align="center" alt="Gabriel de Albuquerque's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=gabriel-albuquerque-repo&show_icons=true&include_all_commits=true&border_color=2e4058" />
 </details>
 
   ##
