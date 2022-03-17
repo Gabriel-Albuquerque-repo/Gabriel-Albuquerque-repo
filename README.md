@@ -2,7 +2,7 @@
 ### Atualmente estou:
 <ul>
   <li>🔭 procurando minha primeira oportunidade no mercado/fazendo parte da Tech pro Bem (Pro Bono)</li>
-  <li>✍🏽 <strong>desenvolvendo</strong> (versão final) do back-end para o site da ONG Saúde da Rua sob o comando da Tech pro Bem com: <strong>Amazon API Gateway, AWS Lambda/Node (Typescript), Serverless framework, DynamoDB e S3</strong>.</li> 
+  <li>✍🏽 <strong>desenvolvendo</strong> (versão final) do back-end para o site da ONG Saúde da Rua sob o comando da Tech pro Bem com: <strong>Amazon API Gateway, AWS Lambda/Node (Typescript), Serverless framework, DynamoDB, S3 e SNS</strong>.</li> 
   <li>✍🏽 <strong>desenvolvendo</strong> aplicação web com: <strong>HTML, Javascript, Bootstrap, Node/Express, MongoDB/Mongoose e Python/BeautifulSoup.</strong></li> 
   <li>🥅 Objetos para 2022: Finalizar a entrega para a ONG Saúde da Rua, ingressar no mercado e iniciar o curso de Sistemas de Informação.</li> 
 </ul>
