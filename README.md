@@ -2,7 +2,6 @@
 ### Atualmente estou:
 <ul>
   <li>🔭 Atualmente trabalhando como Desenvolvedor Salesforce Pleno</li>
-  <li>✍🏽 <strong>desenvolvendo</strong> (versão final) do back-end para o site da ONG Saúde da Rua sob o comando da Tech pro Bem com: <strong>Amazon API Gateway, AWS Lambda/Node (Typescript), Serverless framework, DynamoDB, S3 e SNS</strong>.</li>  
 </ul>
 
   ##
